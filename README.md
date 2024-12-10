@@ -12,6 +12,12 @@ The project focuses on:
 - Detecting and analyzing deformations in urban areas.
 - Supporting climate-resilient and eco-friendly urban development through spatial analysis.
 
+### **Project Documentation**
+
+Detailed project methodology, implementation, and results are documented in **Overleaf**:  
+📄 **[Satellite Imagery and Depth Data Analysis for Climate-Resilient and Eco-Friendly Urban Development](https://www.overleaf.com/read/tpndhydtfjjn#eca53c)**
+
+
 ### **Key Datasets**
 
 1. **OpenStreetMap (OSM)**  
