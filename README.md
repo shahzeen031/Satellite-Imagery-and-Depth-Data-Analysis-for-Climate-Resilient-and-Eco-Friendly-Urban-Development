@@ -18,21 +18,6 @@ Detailed project methodology, implementation, and results are documented in **Ov
 📄 **[Satellite Imagery and Depth Data Analysis for Climate-Resilient and Eco-Friendly Urban Development](https://www.overleaf.com/read/tpndhydtfjjn#eca53c)**
 
 
-### **Key Datasets**
-
-1. **OpenStreetMap (OSM)**  
-   Open-source spatial data for mapping urban infrastructure.  
-   [OpenStreetMap Website](https://www.openstreetmap.org/)
-
-2. **Maxar WorldView**  
-   High-resolution satellite imagery for precise urban change detection.  
-   [Maxar WorldView Overview](https://www.maxar.com/products/satellite-imagery)
-
-3. **Sentinel-2 (Copernicus)**  
-   Multi-spectral imaging for large-scale land use and vegetation monitoring.  
-   [Sentinel-2 Data Hub](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2)
-
----
 
 ## **Project Objectives**
 
@@ -47,14 +32,7 @@ Detailed project methodology, implementation, and results are documented in **Ov
 
 ---
 
-## **Features**
 
-- **Data Preprocessing**: Tools for preparing OSM, Maxar, and Sentinel-2 datasets.  
-- **Urban Change Detection Pipelines**: Analyze and visualize infrastructure growth.  
-- **Deformation Heatmaps**: Detect urban deformations and structural instabilities.  
-- **Visualizations**: Generate difference maps, heatmaps, and overlays for urban analysis.
-
----
 
 ## **Requirements**
 
