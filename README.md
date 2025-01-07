@@ -19,20 +19,6 @@ Detailed project methodology, implementation, and results are documented in **Ov
 
 
 
-## **Project Objectives**
-
-1. **Urban Change Detection**  
-   Analyze temporal urban changes using satellite imagery.
-
-2. **Deformation Analysis**  
-   Identify and map ground deformations using depth and spatial data.
-
-3. **Climate-Resilient Planning**  
-   Highlight vulnerable urban areas and propose eco-friendly solutions.
-
----
-
-
 
 ## **Requirements**
 
